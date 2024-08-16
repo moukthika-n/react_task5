@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Age Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **Age Calculator** repository! This project provides a simple and interactive tool for calculating age based on the provided date of birth. Built with React, it features a user-friendly interface and is designed to work seamlessly across various devices.
 
-## Available Scripts
+## 🖥️ Project Overview
 
-In the project directory, you can run:
+The Age Calculator project is a React-based application that calculates a person's age from their date of birth. It provides an easy-to-use interface for inputting a date and displays the calculated age. The design is responsive, ensuring a smooth experience on both mobile and desktop devices.
 
-### `npm start`
+- **Live Deployment**: [View Application](https://react-task5-gold.vercel.app/)
+- **Repository Link**: [Age Calculator on GitHub](https://github.com/moukthika-n/react_task5)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌟 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Age Calculation**: Computes age based on the input date of birth.
+- **User-Friendly Interface**: Simple and intuitive design for easy input and calculation.
+- **Responsive Design**: Adapts to different screen sizes for optimal viewing on all devices.
+- **Real-Time Calculation**: Updates age immediately as the date of birth is entered.
 
-### `npm test`
+## 🛠️ Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+- Node.js and npm installed on your local machine
+- A web browser (e.g., Google Chrome, Firefox, etc.)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the Repository**:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/moukthika-n/react_task5.git
+   ```
+2. **Navigate to the Project Directory**:
 
-### `npm run eject`
+   ```bash
+   cd react_task5
+   ```
+3. **Install Dependencies**:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
+   ```
+4. **Start the Development Server**:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   npm start
+   ```
+Open http://localhost:3000 in your browser to view the application.
